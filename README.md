@@ -2,20 +2,22 @@
 
 **POSitive Shop Manager** คือระบบบริหารจัดการหน้าร้าน (Point of Sale) และการจัดส่งสินค้าแบบครบวงจร ที่ถูกออกแบบมาเพื่อแก้ปัญหาการจัดการคลังสินค้า การคำนวณค่าจัดส่งที่ซับซ้อน และการดูยอดขายแบบ Real-time โปรเจกต์นี้แสดงให้เห็นถึงความเข้าใจในการออกแบบสถาปัตยกรรมซอฟต์แวร์แบบ Client-Server อย่างเป็นระบบ## หน้าตาแอปพลิเคชัน (Screenshots)
 
+## หน้าตาแอปพลิเคชัน (Screenshots)
+
 ### 1. หน้าแรก Welcome & Login
-![หน้าแรก Welcome](Screenshot_25690527_211519.jpg)
+<img src="Screenshot_25690527_211519.jpg" width="500">
 
 ### 2. หน้าจอ Dashboard ระบบจัดการหลังบ้าน
-![หน้า Dashboard](Screenshot_25690527_211528.jpg)
+<img src="Screenshot_25690527_211528.jpg" width="500">
 
 ### 3. หน้าจัดการข้อมูลพนักงาน
-![หน้าจัดการข้อมูลพนักงาน](Screenshot_25690527_211611.jpg)
+<img src="Screenshot_25690527_211611.jpg" width="500">
 
 ### 4. ระบบเพิ่มสินค้าเข้าคลัง
-![ระบบเพิ่มสินค้า](Screenshot_25690527_211620.jpg)
+<img src="Screenshot_25690527_211620.jpg" width="500">
 
 ### 5. แผงควบคุมและจัดการออเดอร์
-![จัดการออเดอร์](Screenshot_25690527_211637.jpg)
+<img src="Screenshot_25690527_211637.jpg" width="500">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
