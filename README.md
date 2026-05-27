@@ -13,23 +13,23 @@
 เพื่อแสดงให้เห็นถึงการทำงานจริงของแอปพลิเคชัน กระผมได้จัดเตรียมภาพหน้าจอ (Screenshots) ในฟังก์ชันหลักต่าง ๆ ดังนี้ครับ:
 
 ### 1. หน้าจอเข้าสู่ระบบและต้อนรับ (Login & Welcome)
-<img src="Login.jpg" width="600" alt="Login Screen">
+<img src="Login.jpg" width="300" alt="Login Screen">
 
 
 ### 2. หน้าจอแดชบอร์ดหลัก (Dashboard)
-<img src="Home.jpg" width="600" alt="Dashboard Screen">
+<img src="Home.jpg" width="300" alt="Dashboard Screen">
 
 
 ### 3. ระบบบริหารจัดการข้อมูลพนักงาน (Human Resources)
-<img src="HR.jpg" width="600" alt="HR Management Screen">
+<img src="HR.jpg" width="300" alt="HR Management Screen">
 
 
 ### 4. ระบบเพิ่มและจัดการสินค้าในคลัง (Product Management)
-<img src="Addproduct.jpg" width="600" alt="Product Management Screen">
+<img src="Addproduct.jpg" width="300" alt="Product Management Screen">
 
 
 ### 5. ระบบบริหารจัดการออเดอร์และการขาย (Order & Sale Management)
-<img src="Customer.jpg" width="600" alt="Order Management Screen">
+<img src="Customer.jpg" width="300" alt="Order Management Screen">
 
 
 ---
